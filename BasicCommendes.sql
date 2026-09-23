@@ -120,3 +120,34 @@ select * from EmployeInfo ;
 --select empno as employeeno from besant where id=106 and name='sameer';
  use startup
 
+
+
+ --view : create view name 
+    -- drop view name 
+    --rename : exec sp_reame name as rename 
+
+
+
+--CTE => Common table Expressions  
+
+--looping concepts : 
+
+
+--subquery
+
+
+--create procedure procedurename 
+--Alter procedure procedurename( like input datatype
+  --  @Name varchar(20),
+  --  @password Varch(20)
+--)
+
+
+
+
+--Function
+--Cursor
+--Trigger
+
+
+--Truncate

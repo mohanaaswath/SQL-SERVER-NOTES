@@ -13,7 +13,7 @@ INSERT INTO CountryDetails VALUES
 select * from CountryDetails
 
 SELECT * FROM CountryDetails
-WHERE CountryName LIKE '_ndia';
+WHERE CountryName LIKE '_ndia'; 
 
 
 SELECT * FROM CountryDetails

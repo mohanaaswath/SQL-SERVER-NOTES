@@ -3,7 +3,7 @@ GO
 /****** Object:  StoredProcedure [dbo].[Insert_UserDetails]    
 Script Date: 05-05-2023 00:48:28 ******/
 --SP USE FOR INSERT RECORD TO USER TABLE 
----Author Name:	Sameer  
+---Author Name:	Sameer   
 ---CrtdDt-12/04/2023
 ---Modby : Arbind,Akash,Sam,Sam123 
 --moddt-03/02/2024,05/04/2024,02/07/2026,17/09/2026           
